@@ -1,4 +1,4 @@
-#Basic Understanding of GITHUB.
+# Basic Understanding of GITHUB.
 ***
 Will learn about the following:
 1. Commit Messages
