@@ -6,4 +6,4 @@ Will learn about the following:
 1. Pull Requests
 1. Merge Requests
 1. Branching
----
+--- 
